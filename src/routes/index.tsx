@@ -144,7 +144,7 @@ function LandingPage() {
           className="text-4xl md:text-6xl font-extrabold leading-[1.05] tracking-tighter text-zinc-950 mb-6"
         >
           Smart Resume Insights <br />
-          <span className="text-zinc-400 font-medium">for your career.</span>
+          <span className="text-zinc-400 font-medium">For your career success.</span>
         </MotionH1>
 
         <MotionP
